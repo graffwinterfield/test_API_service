@@ -27,8 +27,9 @@ curl -X POST -H "Content-Type: application/json" -d "{\"questions_num\": 100}" h
 http://127.0.0.1:5000/admin
 </pre>
 ![image](https://github.com/graffwinterfield/test_API_service/assets/110451740/1df3a95a-53ff-4516-ba44-2b884c099a30)
+#  test for check request time
 <pre>
-python3 test.py - test for check request time
+python3 test.py
 </pre>
 ![image](https://github.com/graffwinterfield/test_API_service/assets/110451740/43e2c27d-304d-47ea-8cd2-e990038b4bfd)
 
