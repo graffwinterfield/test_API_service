@@ -2,10 +2,8 @@
 
 # install docker and python
 <pre>
-```
 sudo apt update
 sudo apt install docker-compose python3
-```
 </pre>
 
 # download project
