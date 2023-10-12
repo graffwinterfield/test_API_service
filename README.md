@@ -5,8 +5,8 @@ sudo apt update
 sudo apt install docker-compose python3
 
 # download project
-git clone https://github.com/graffwinterfield/test_API_service.git
-[cd test_API_service/]
+git clone https://github.com/graffwinterfield/test_API_service.git\n
+cd test_API_service/\n
 pip install -r requirments.txt
 
 # start
