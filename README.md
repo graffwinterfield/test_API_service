@@ -13,7 +13,10 @@ cd test_API_service/
 pip install -r requirments.txt
 </pre>
 # start
+<pre>
+docker-compose up -d
 python3 main.py
+</pre>
 ![image](https://github.com/graffwinterfield/test_API_service/assets/110451740/293e09a8-d4f1-42bd-85bb-657dca036f91)
 
 # usage
