@@ -1,8 +1,12 @@
 ﻿# test_API_service
 
 # install docker and python
+<pre>
+```
 sudo apt update
 sudo apt install docker-compose python3
+```
+</pre>
 
 # download project
 git clone https://github.com/graffwinterfield/test_API_service.git\n
